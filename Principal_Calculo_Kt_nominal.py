@@ -6,7 +6,7 @@ import numpy as np
 H_nominal = 115
 d_nominal = 75
 t_nominal = H_nominal - d_nominal
-r_nominal = 20
+r_nominal = 11.25
 
 # Datos para el cálculo de esfuerzo
 h = 3  # Espesor de la placa en mm
